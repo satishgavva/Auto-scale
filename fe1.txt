@@ -2,3 +2,4 @@
 second line for merging 
 
 devloper 2  ia dding line 
+dev-1---adding 3rd commit
