@@ -4,5 +4,7 @@ second line for merging
 devloper 2  ia dding line 
 dev-1---adding 3rd commit
 
-
+adding latest line
 creatig issue 
+went for lunch
+adding line6 latest2
